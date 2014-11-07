@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
+		<link type="text/css" rel="stylesheet" href="index.css"/>
+		<title>myPod</title>
+		<style type="text/css">
+			#allcontent
+			{
+				width: 800px;
+				padding-top: 5px;
+				padding-bottom: 5pc;
+				background-color: #675c47;
+				margin-left: auto;
+				margin-right: auto;
+			}
+			body
+			{
+				background-color: #eaf3da; 
+				text-decoration: none;
+			}
+			p
+			{
+				color: maroon;
+				font-family: cursive;	
+			}
+			h1,h2
+			{
+				font-family: sans-serif;
+				color: gray;
+				border-bottom: 1px dotted black;
+			}
+			#elixirs a:link
+			{
+				color:#007e7e;
+			}
+			#elixirs a:visited
+			{
+				color: #333333;
+			}
+			#elixirs a:hover
+			{
+				background: #f88396;
+				color: #0d5353;
+			}	
+		</style>
+	</head>
+	<body>
+		<div id="allcontent">
+		<img src="logo/logo1.gif" alt="image1"/>
+		<h1>welcome to myPod</h1>
+		<p>
+			Welcome to the place to show off your iPod, wherever you might be.
+			Wanna join the fun? All you need is any iPod from the early classic
+			iPod to the latest iPod Nano, the smallest iPod Shuffle to the largest
+			iPod Photo, and a digital camera. Just take a snapshot of your iPod in
+			your favorite location and we’ll be glad to post it on myPod. So, what
+			are you waiting for?
+		</p>
+
+		<h2>Seattle,Washington</h2>
+		<p>
+			Me and my iPod in Seattle! You can see rain clouds and the
+			Space Needle. You can’t see the 628 coffee shops.
+		</p>
+
+		<p>
+			<a href="html/image1.html"><img src="thumbnail/1.jpg" alt="this is my pod"/></a>
+			<img src="thumbnail/3.jpg" alt="this is my pod"/>
+			<img src="thumbnail/9.jpg" alt="this is my pod"/>
+		</p>
+
+		<h2>Birmingham,England</h2>
+		<p>
+			Here are some iPod photos around Birmingham. We’ve obviously got some
+			passionate folks over here who love their iPods. Check out the classic
+			raied British telephone box!
+		</p>
+		</div>
+	</body>
+</html>
